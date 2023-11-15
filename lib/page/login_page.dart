@@ -38,6 +38,7 @@ class _LoginPageState extends State<LoginPage> {
                   //  các hình ảnh được khai báo trong pubspec.yaml ở dòng 62, 63
                   //  cách ảnh được chưa trong thư mục ./assets/images/*
                   // background image
+
                   image: DecorationImage(
                       image: AssetImage('assets/images/Objects.png'))),
 
